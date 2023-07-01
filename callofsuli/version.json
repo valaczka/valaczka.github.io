@@ -1,0 +1,17 @@
+{
+	"ios": {
+		"version": "3.2.5986"
+	},
+	"android": {
+		"version": "3.2.5986"
+	},
+	"windows": {
+		"version": "3.2.5986"
+	},
+	"linux": {
+		"version": "3.2.5986"
+	},
+	"mac": {
+		"version": "3.2.5986"
+	},
+}
