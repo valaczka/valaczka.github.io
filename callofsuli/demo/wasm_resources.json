@@ -1,0 +1,10 @@
+{
+	"demo": true,
+	"resources": [
+		"internal.cres",
+		"character.cres",
+		"snipers.cres",
+		"soldiers.cres",
+		"terrain.cres"
+	]
+}
