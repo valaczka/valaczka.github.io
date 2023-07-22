@@ -11,9 +11,7 @@
 		"installer": "https://github.com/valaczka/callofsuli/releases/latest/download/Call_of_Suli_x64_install.exe" 
 	},
 	"linux": {
-		"version": "3.3.0",
-		"sha1": "88e7bc31f107f4b52c532e1d0da7de8ab15fd842",
-		"installer": "https://github.com/valaczka/callofsuli/releases/latest/download/Call_of_Suli-x86_64.AppImage"
+		"version": "3.3.0"
 	},
 	"mac": {
 		"version": "3.3.0"
