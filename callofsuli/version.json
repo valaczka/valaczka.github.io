@@ -1,19 +1,19 @@
 {
 	"ios": {
-		"version": "3.3.235"
+		"version": "3.4.0"
 	},
 	"android": {
-		"version": "3.3.235"
+		"version": "3.4.0"
 	},
 	"windows": {
-		"version": "3.3.235",
-		"sha1": "d2357fab6eefb83bf588672c1b20889cb5273589",
-		"installer": "https://github.com/valaczka/callofsuli/releases/latest/download/Call_of_Suli_x64_install.exe" 
+		"version": "3.4.0",
+		"sha1": "19a1cb98bdc6cc7b47b874240a0458d07f02476f",
+		"installer": "https://github.com/valaczka/callofsuli/releases/latest/download/Call_of_Suli_x64_install.exe"
 	},
 	"linux": {
-		"version": "3.3.235"
+		"version": "3.4.0"
 	},
 	"mac": {
-		"version": "3.3.0"
+		"version": "3.4.0"
 	}
 }
