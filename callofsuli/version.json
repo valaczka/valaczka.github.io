@@ -6,12 +6,11 @@
 		"version": "3.4.14"
 	},
 	"windows": {
-		"version": "3.4.14",
-		"sha1": "f501bf042fc5a513525ee53551b9e04937c6911e",
+		"version": "3.5.0",
 		"installer": "https://github.com/valaczka/callofsuli/releases/latest/download/Call_of_Suli_x64_install.exe"
 	},
 	"linux": {
-		"version": "3.4.14"
+		"version": "3.5.0"
 	},
 	"mac": {
 		"version": "3.4.0"
