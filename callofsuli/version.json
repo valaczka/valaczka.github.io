@@ -1,16 +1,16 @@
 {
 	"ios": {
-		"version": "3.4.14"
+		"version": "3.5.109"
 	},
 	"android": {
 		"version": "3.5.1"
 	},
 	"windows": {
-		"version": "3.5.0",
+		"version": "3.5.109",
 		"installer": "https://github.com/valaczka/callofsuli/releases/latest/download/Call_of_Suli_x64_install.exe"
 	},
 	"linux": {
-		"version": "3.5.0"
+		"version": "3.5.109"
 	},
 	"mac": {
 		"version": "3.4.0"
