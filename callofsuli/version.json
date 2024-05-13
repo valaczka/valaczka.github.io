@@ -3,10 +3,10 @@
 		"version": "4.0.80"
 	},
 	"android": {
-		"version": "4.0.80"
+		"version": "4.0.123"
 	},
 	"windows": {
-		"version": "4.0.80",
+		"version": "4.0.123",
 		"installer": "https://github.com/valaczka/callofsuli/releases/latest/download/Call_of_Suli_x64_install.exe"
 	},
 	"win7": {
