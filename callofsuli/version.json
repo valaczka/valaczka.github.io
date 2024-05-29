@@ -1,12 +1,12 @@
 {
 	"ios": {
-		"version": "4.0.123"
+		"version": "4.1.0"
 	},
 	"android": {
-		"version": "4.0.123"
+		"version": "4.1.0"
 	},
 	"windows": {
-		"version": "4.0.123",
+		"version": "4.1.0",
 		"installer": "https://github.com/valaczka/callofsuli/releases/latest/download/Call_of_Suli_x64_install.exe"
 	},
 	"win7": {
