@@ -1,0 +1,86 @@
+{
+    "list": [
+        {
+            "amount": 1,
+            "cost": 0,
+            "exp": 0,
+            "info": {
+                "currencyCount": 500,
+                "duration": 180,
+                "enemyCount": 25,
+                "hasMarket": false,
+                "mpCount": 0
+            },
+            "name": "mapBase01",
+            "num": 0,
+            "rank": 0,
+            "rollover": 0,
+            "type": 1
+        },
+        {
+            "amount": 1,
+            "cost": 0,
+            "exp": 0,
+            "info": {
+            },
+            "name": "character02",
+            "num": 0,
+            "rank": 0,
+            "rollover": 0,
+            "type": 2
+        },
+        {
+            "amount": 1,
+            "cost": 0,
+            "exp": 0,
+            "info": {
+            },
+            "name": "character01",
+            "num": 0,
+            "rank": 0,
+            "rollover": 0,
+            "type": 2
+        },
+        {
+            "amount": 1,
+            "cost": 0,
+            "exp": 0,
+            "info": {
+                "currencyCount": 0,
+                "duration": 300,
+                "enemyCount": 26,
+                "hasMarket": false,
+                "mpCount": 825
+            },
+            "name": "dungeon01",
+            "num": 0,
+            "rank": 0,
+            "rollover": 0,
+            "type": 1
+        },
+        {
+            "amount": 1,
+            "cost": 0,
+            "exp": 0,
+            "info": {
+            },
+            "name": "longsword",
+            "num": 0,
+            "rank": 0,
+            "rollover": 0,
+            "type": 3
+        },
+        {
+            "amount": 1,
+            "cost": 0,
+            "exp": 0,
+            "info": {
+            },
+            "name": "dagger",
+            "num": 0,
+            "rank": 0,
+            "rollover": 0,
+            "type": 3
+        }
+    ]
+}
