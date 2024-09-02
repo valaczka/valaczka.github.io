@@ -6,7 +6,7 @@
 		"version": "4.2.0"
 	},
 	"windows": {
-		"version": "4.2.0",
+		"version": "4.2.25",
 		"installer": "https://github.com/valaczka/callofsuli/releases/latest/download/Call_of_Suli_x64_install.exe"
 	},
 	"win7": {
