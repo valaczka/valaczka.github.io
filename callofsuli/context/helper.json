@@ -1,14 +1,1 @@
-{
-"1": [
-	{
-		"id": 1,
-		"title": "Üdvözlet",
-		"description": "Ez a Call of Suli",
-		"icon": "qrc:/Qaterial/Icons/head.svg"
-	}
-],
-
-
-"2": [
-]
-}
+{"1":[{"id":1,"title":"Tudtad?","description":"Ha hosszan rányomsz a szerverre, módosíthatod vagy törölheted","icon":"qrc:/Qaterial/Icons/touch-text-outline.svg"},{"id":2,"title":"Tudtad?","description":"Ha hosszan nyomva kiválasztod a szervernél az automatikus csatlakozást, gyorsabban be tudsz jelentkezni","icon":"qrc:/Qaterial/Icons/connection.svg"}],"2":[{"id":1,"title":"Tudtad?","description":"Ha szeretnéd a súgó üzeneteket megjeleníteni, itt tudod ezt a lehetőséget ki-bekapcsolni","icon":"qrc:/Qaterial/Icons/lightbulb-on-outline.svg"}],"3":[{"id":1,"title":"Tudtad?","description":"Ezen a lapon láthatod, ha van aktuális teljesítendő kihívás","icon":"qrc:/Qaterial/Icons/trophy-broken.svg"},{"id":2,"title":"Tudtad?","description":"A szabad játék gombra kattintva olyan feladatokat oldhatsz meg, melyek nem tartoznak valamelyik kihíváshoz","icon":"qrc:/Qaterial/Icons/controller.svg"},{"id":3,"title":"Tudtad?","description":"A vásárlás gombra kattintva az akciójátékhoz tudsz karaktereket és felszerelést venni (nem valódi pénzen)","icon":"qrc:/Qaterial/Icons/cart-outline.svg"}],"9":[{"id":1,"title":"Tudtad?","description":"Ezen a lapon láthatod a dolgozataid eredményeit","icon":"qrc:/Qaterial/Icons/file-document-multiple.svg"},{"id":1,"title":"Tudtad?","description":"A dolgozatokra kattintva meg tudod nézni a javítást is","icon":"qrc:/Qaterial/Icons/file-document-edit.svg"}],"10":[{"id":1,"title":"Tudtad?","description":"Ezen a lapon tudod nyomon követni a Call Passokkal elért eredményeidet","icon":"qrc:/internal/img/passIcon.svg"}],"13":[{"id":1,"title":"Tudtad?","description":"Ugyanazt a szintet többféle játék móddal is teljesítheted, az elért eredményedet nem befolyásolja","icon":"qrc:/Qaterial/Icons/lightbulb-on-outline.svg"}]}
