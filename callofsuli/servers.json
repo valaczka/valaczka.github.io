@@ -1,9 +1,5 @@
 {
 	"0": {
-		"name": "TEST server",
-		"url": "https://vjpvm.piarista.hu:10101"
-	},
-	"1": {
 		"name": "Budapest",
 		"url": "https://vjpvm.piarista.hu:10102"
 	}
