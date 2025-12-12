@@ -21,7 +21,7 @@ kell a két sztring adott hosszúságú prefixeinek egyezővé alakításához.
 
 Létrehozzuk a **dp** táblát a sztringek méretei alapján:
 
-```.cpp
+```cpp
 int n = (int)a.size();
 int m = (int)b.size();
 
@@ -30,7 +30,7 @@ vector<vector<int>> dp(n + 1, vector<int>(m + 1, 0));
 
 Ha *i* vagy *j* üres, akkor törölni vagy beszúrni kell karaktereket:
 
-```.cpp
+```cpp
 for (int i = 0; i <= n; ++i)
     dp[i][0] = i;       // i törlés
 
@@ -47,7 +47,7 @@ Felépítjük a táblát *1-n*, illetve *1-m* esetekre. Mindegyiknél 3 lehetős
 
 A három közül a minimálisat választjuk:
 
-```.cpp
+```cpp
 dp[i][j] = min({
     dp[i - 1][j] + 1,         // törlés a-ból
     dp[i][j - 1] + 1,         // beszúrás a-ba
