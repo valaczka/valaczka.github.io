@@ -1,6 +1,10 @@
+#include <string>
+#include <iostream>
+#include <vector>
+
 using namespace std;
 
-const int MAXN = 100000;
+const int MAXN = 210000;
 
 vector<int> adj[MAXN];
 bool visited[MAXN];
