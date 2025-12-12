@@ -12,3 +12,11 @@
 ### [Area of Rectangles](rectangle.md)
 
 - [rectangle.cpp](rectangle.cpp)
+
+### [Edit Distance](distance.md)
+
+- [distance.cpp](distance.cpp)
+
+### [Roads](roads.md)
+
+- [roads.cpp](roads.cpp)
