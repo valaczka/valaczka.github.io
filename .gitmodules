@@ -1,0 +1,3 @@
+[submodule "callofsuli/demo/content"]
+	path = callofsuli/demo/content
+	url = https://github.com/valaczka/callofsuli-content.git
