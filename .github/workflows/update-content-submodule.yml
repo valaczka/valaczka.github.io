@@ -26,7 +26,7 @@ jobs:
 
       - name: Update content submodule
         run: |
-          git submodule update --remote --merge callofsuli/demo/content
+          git submodule update --remote callofsuli/demo/content
 
       - name: Commit and push if changed
         run: |
